@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Smart System Monitor & Greeting Tool
-Collects system information and generates intelligent greetings based on system health
-"""
-
 import os
 import sys
 import json
