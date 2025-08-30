@@ -1,0 +1,18 @@
+{
+  "display_sections": {
+    "storage": true,
+    "memory": true,
+    "startup": true,
+    "battery": true,
+    "autostart": true,
+    "services": false,
+    "drivers": true
+  },
+  "greeting_style": "friendly",
+  "show_tips": true,
+  "show_insights": true,
+  "health_warnings": true,
+  "max_autostart_display": 5,
+  "max_services_display": 5,
+  "personality_greetings": true
+}
